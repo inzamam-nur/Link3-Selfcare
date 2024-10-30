@@ -12,24 +12,24 @@ A user-friendly billing solution featuring functionalities such as bill payment,
 
 ## Getting Started
 
-Using GetX
-MVVM Articuter
-dio
-logger
-shared_preferences
-cached_network_image
-permission_handler
-flutter_local_notifications
-url_launcher
-webview_flutter
-firebase_messaging
-firebase_crashlytics
-firebase_remote_config
-open_file
-image_cropper
-lottie
-sqflite
-more
+- Using GetX
+- MVVM Articuter
+- dio
+- logger
+- shared_preferences
+- cached_network_image
+- permission_handler
+- flutter_local_notifications
+- url_launcher
+- webview_flutter
+- firebase_messaging
+- firebase_crashlytics
+- firebase_remote_config
+- open_file
+- image_cropper
+- lottie
+- sqflite
+- more
 
 # Output
 
