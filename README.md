@@ -52,9 +52,9 @@ more
 <img src="https://github.com/inzamam-nur/images-apps/blob/main/selfcare%20image/Group%201413377567.png" width="180">
 <img src="https://github.com/inzamam-nur/images-apps/blob/main/selfcare%20image/Group%201413377559.png" width="180">
 
-<img src="https://github.com/inzamam-nur/images-apps/blob/main/selfcare%20image/allowcamera.png" width="180" height="320">
-<img src="https://github.com/inzamam-nur/images-apps/blob/main/selfcare%20image/allownoti.png" width="180">
-<img src="https://github.com/inzamam-nur/images-apps/blob/main/selfcare%20image/success.png" width="180">
+<img src="https://github.com/inzamam-nur/images-apps/blob/main/selfcare%20image/allowcamera.png" width="160" height="310">
+<img src="https://github.com/inzamam-nur/images-apps/blob/main/selfcare%20image/allownoti.png" width="160" height="310">
+<img src="https://github.com/inzamam-nur/images-apps/blob/main/selfcare%20image/success.png" width="160" height="310">
 
 </p>
 
